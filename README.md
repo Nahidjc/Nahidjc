@@ -102,14 +102,17 @@
 
 
 
+<div style="display:flex">
 
-<p><img style="float: left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=nahidjc&theme=radical" alt="nahidjc" /></p>
-<p>&nbsp;<img style="float: left"
-        src="https://github-readme-stats.vercel.app/api?username=nahidjc&show_icons=true&locale=en&theme=radical"
-        alt="nahidjc" /></p>
+    <p><img style="float: left" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidjc&theme=radical"
+            alt="nahidjc" /></p>
 
-
-<p><img  style="margin: auto;"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidjc&show_icons=true&locale=en&layout=compact&theme=radical"
-        alt="nahidjc" /></p>
+    <p>&nbsp;<img style="float: left"
+            src="https://github-readme-stats.vercel.app/api?username=nahidjc&show_icons=true&locale=en&theme=radical"
+            alt="nahidjc" /></p>
+</div>
+<div>
+    <p><img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidjc&show_icons=true&locale=en&layout=compact&theme=radical"
+            alt="nahidjc" /></p>
+</div>
