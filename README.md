@@ -103,9 +103,9 @@
 
 
 
-<p><img align="center" 
+<p><img style="float: left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=nahidjc&theme=radical" alt="nahidjc" /></p>
-<p>&nbsp;<img style="float: right"
+<p>&nbsp;<img style="float: left"
         src="https://github-readme-stats.vercel.app/api?username=nahidjc&show_icons=true&locale=en&theme=radical"
         alt="nahidjc" /></p>
 
