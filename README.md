@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img style="float: right" src="https://github-readme-stats.vercel.app/api?username=nahidjc&show_icons=true&locale=en" alt="nahidjc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidjc&" alt="nahidjc" /></p>
+<p><img align="center" style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidjc&" alt="nahidjc" /></p>
