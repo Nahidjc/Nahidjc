@@ -95,12 +95,12 @@
 
 
 
-<p><img style="float: left" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidjc&theme=radical"
+<!-- <p><img style="float: left" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidjc&theme=radical"
         alt="nahidjc" /></p>
 
 <p>&nbsp;<img style="float: left"
         src="https://github-readme-stats.vercel.app/api?username=nahidjc&show_icons=true&locale=en&theme=radical"
-        alt="nahidjc" /></p>
+        alt="nahidjc" /></p> -->
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidjc&show_icons=true&locale=en&layout=compact&theme=radical"
