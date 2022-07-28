@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/50502837?s=400&u=abaf81792f71b8b7789d3da2171fe73ff5dbc031&v=4"  />
+
 
 ###
 
