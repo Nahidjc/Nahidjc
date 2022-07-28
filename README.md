@@ -5,13 +5,10 @@
 
 
 - 🌱 I’m currently learning **React.js**
-
-
 - 💬 Ask me about **Django,react**
-
 - 📫 How to reach me **nahidjc80@gmail.com**
 
-- 📄 Know about my experiences [https://www.nahidjc.xyz/](https://www.nahidjc.xyz/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
