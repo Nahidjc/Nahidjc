@@ -2,15 +2,10 @@
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on [Machine_Learning_Project](https://github.com/Nahidjc/Machine_Learning)
+
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on [E-commerce_Project_Django](https://github.com/Nahidjc/E-commerce_Project_Django)
-
-- 🤝 I’m looking for help with [E-commerce_Project_Django](https://github.com/Nahidjc/E-commerce_Project_Django)
-
-- 👨‍💻 All of my projects are available at [https://www.nahidjc.xyz/](https://www.nahidjc.xyz/)
 
 - 💬 Ask me about **Django,react**
 
